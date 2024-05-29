@@ -4,6 +4,8 @@ This repository comprises a static implementation of the Star Wars API (SWAPI) f
 
 There are six categories; films, people, planets, species, starships, and vehicles.
 
+[**Visit the API**](https://thefreeman193.github.io/mita-swapi/api).
+
 ## Files
 
 | Filename | Description |
