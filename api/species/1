@@ -7,7 +7,7 @@
   "hair_colors": "blonde, brown, black, red",
   "eye_colors": "brown, blue, green, hazel, grey, amber",
   "average_lifespan": "120",
-  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/9",
+  "homeworld": "9",
   "language": "Galactic Basic",
   "people": [
     66,

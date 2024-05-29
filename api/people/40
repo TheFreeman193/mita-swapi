@@ -7,7 +7,7 @@
   "eye_color": "yellow",
   "birth_year": "unknown",
   "gender": "male",
-  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/34",
+  "homeworld": "34",
   "films": [
     4,
     5

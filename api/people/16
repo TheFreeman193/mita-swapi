@@ -7,7 +7,7 @@
   "eye_color": "orange",
   "birth_year": "600BBY",
   "gender": "hermaphrodite",
-  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/24",
+  "homeworld": "24",
   "films": [
     1,
     3,

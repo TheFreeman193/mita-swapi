@@ -7,7 +7,7 @@
   "eye_color": "hazel",
   "birth_year": "48BBY",
   "gender": "female",
-  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/37",
+  "homeworld": "37",
   "films": [
     4,
     5,

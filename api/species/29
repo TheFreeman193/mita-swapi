@@ -7,7 +7,7 @@
   "hair_colors": "black, brown",
   "eye_colors": "blue, green, red, yellow, brown, orange",
   "average_lifespan": "unknown",
-  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/51",
+  "homeworld": "51",
   "language": "Mirialan",
   "people": [
     64,
