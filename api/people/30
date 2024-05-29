@@ -1,0 +1,23 @@
+{
+  "name": "Wicket Systri Warrick",
+  "height": "88",
+  "mass": "20",
+  "hair_color": "brown",
+  "skin_color": "brown",
+  "eye_color": "brown",
+  "birth_year": "8BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/7",
+  "films": [
+    3
+  ],
+  "species": [
+    9
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-18T11:21:58.954Z",
+  "edited": "2014-12-20T21:17:50.369Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/30",
+  "id": "30"
+}

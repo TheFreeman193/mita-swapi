@@ -1,0 +1,21 @@
+{
+  "name": "Finis Valorum",
+  "height": "170",
+  "mass": "unknown",
+  "hair_color": "blond",
+  "skin_color": "fair",
+  "eye_color": "blue",
+  "birth_year": "91BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/9",
+  "films": [
+    4
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-19T17:21:45.915Z",
+  "edited": "2014-12-20T21:17:50.379Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/34",
+  "id": "34"
+}

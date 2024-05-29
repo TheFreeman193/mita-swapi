@@ -1,0 +1,23 @@
+{
+  "name": "Kaminoan",
+  "classification": "amphibian",
+  "designation": "sentient",
+  "average_height": "220",
+  "skin_colors": "grey, blue",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "80",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/10",
+  "language": "Kaminoan",
+  "people": [
+    72,
+    73
+  ],
+  "films": [
+    5
+  ],
+  "created": "2014-12-20T17:31:24.838Z",
+  "edited": "2014-12-20T21:36:42.202Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/32",
+  "id": "32"
+}

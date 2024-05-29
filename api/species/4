@@ -1,0 +1,22 @@
+{
+  "name": "Rodian",
+  "classification": "sentient",
+  "designation": "reptilian",
+  "average_height": "170",
+  "skin_colors": "green, blue",
+  "hair_colors": "n/a",
+  "eye_colors": "black",
+  "average_lifespan": "unknown",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/23",
+  "language": "Galatic Basic",
+  "people": [
+    15
+  ],
+  "films": [
+    1
+  ],
+  "created": "2014-12-10T17:05:26.471Z",
+  "edited": "2014-12-20T21:36:42.144Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/4",
+  "id": "4"
+}

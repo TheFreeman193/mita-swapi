@@ -1,0 +1,23 @@
+{
+  "name": "Dexter Jettster",
+  "height": "198",
+  "mass": "102",
+  "hair_color": "none",
+  "skin_color": "brown",
+  "eye_color": "yellow",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/55",
+  "films": [
+    5
+  ],
+  "species": [
+    31
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T17:28:27.248Z",
+  "edited": "2014-12-20T21:17:50.47Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/71",
+  "id": "71"
+}

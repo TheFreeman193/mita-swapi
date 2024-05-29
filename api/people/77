@@ -1,0 +1,23 @@
+{
+  "name": "San Hill",
+  "height": "191",
+  "mass": "unknown",
+  "hair_color": "none",
+  "skin_color": "grey",
+  "eye_color": "gold",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/57",
+  "films": [
+    5
+  ],
+  "species": [
+    34
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T17:58:17.049Z",
+  "edited": "2014-12-20T21:17:50.484Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/77",
+  "id": "77"
+}

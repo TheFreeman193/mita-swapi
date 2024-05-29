@@ -1,0 +1,30 @@
+{
+  "name": "Droid",
+  "classification": "artificial",
+  "designation": "sentient",
+  "average_height": "n/a",
+  "skin_colors": "n/a",
+  "hair_colors": "n/a",
+  "eye_colors": "n/a",
+  "average_lifespan": "indefinite",
+  "homeworld": null,
+  "language": "n/a",
+  "people": [
+    2,
+    3,
+    8,
+    23
+  ],
+  "films": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "created": "2014-12-10T15:16:16.259Z",
+  "edited": "2014-12-20T21:36:42.139Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/2",
+  "id": "2"
+}

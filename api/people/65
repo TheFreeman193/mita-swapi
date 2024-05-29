@@ -1,0 +1,23 @@
+{
+  "name": "Barriss Offee",
+  "height": "166",
+  "mass": "50",
+  "hair_color": "black",
+  "skin_color": "yellow",
+  "eye_color": "blue",
+  "birth_year": "40BBY",
+  "gender": "female",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/51",
+  "films": [
+    5
+  ],
+  "species": [
+    29
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T16:46:40.44Z",
+  "edited": "2014-12-20T21:17:50.457Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/65",
+  "id": "65"
+}

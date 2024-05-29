@@ -1,0 +1,23 @@
+{
+  "name": "Yarael Poof",
+  "height": "264",
+  "mass": "unknown",
+  "hair_color": "none",
+  "skin_color": "white",
+  "eye_color": "yellow",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/48",
+  "films": [
+    4
+  ],
+  "species": [
+    25
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T10:34:48.725Z",
+  "edited": "2014-12-20T21:17:50.437Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/57",
+  "id": "57"
+}

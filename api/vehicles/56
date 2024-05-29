@@ -1,0 +1,22 @@
+{
+  "name": "Neimoidian shuttle",
+  "model": "Sheathipede-class transport shuttle",
+  "manufacturer": "Haor Chall Engineering",
+  "cost_in_credits": "unknown",
+  "length": "20",
+  "max_atmosphering_speed": "880",
+  "crew": "2",
+  "passengers": "6",
+  "cargo_capacity": "1000",
+  "consumables": "7 days",
+  "vehicle_class": "transport",
+  "pilots": [],
+  "films": [
+    5,
+    6
+  ],
+  "created": "2014-12-20T18:25:44.912Z",
+  "edited": "2014-12-20T21:30:21.739Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/vehicles/56",
+  "id": "56"
+}

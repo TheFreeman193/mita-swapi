@@ -1,0 +1,22 @@
+{
+  "name": "Xexto",
+  "classification": "unknown",
+  "designation": "sentient",
+  "average_height": "125",
+  "skin_colors": "grey, yellow, purple",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "unknown",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/40",
+  "language": "Xextese",
+  "people": [
+    49
+  ],
+  "films": [
+    4
+  ],
+  "created": "2014-12-20T10:02:13.915Z",
+  "edited": "2014-12-20T21:36:42.175Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/18",
+  "id": "18"
+}

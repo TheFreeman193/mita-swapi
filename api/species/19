@@ -1,0 +1,23 @@
+{
+  "name": "Toong",
+  "classification": "unknown",
+  "designation": "sentient",
+  "average_height": "200",
+  "skin_colors": "grey, green, yellow",
+  "hair_colors": "none",
+  "eye_colors": "orange",
+  "average_lifespan": "unknown",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/41",
+  "language": "Tundan",
+  "people": [
+    50
+  ],
+  "films": [
+    4,
+    6
+  ],
+  "created": "2014-12-20T10:08:36.795Z",
+  "edited": "2014-12-20T21:36:42.177Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/19",
+  "id": "19"
+}

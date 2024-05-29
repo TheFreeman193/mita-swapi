@@ -1,0 +1,25 @@
+{
+  "name": "Kit Fisto",
+  "height": "196",
+  "mass": "87",
+  "hair_color": "none",
+  "skin_color": "green",
+  "eye_color": "black",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/44",
+  "films": [
+    4,
+    5,
+    6
+  ],
+  "species": [
+    21
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T10:18:57.202Z",
+  "edited": "2014-12-20T21:17:50.424Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/53",
+  "id": "53"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Skakoan",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "unknown",
+  "skin_colors": "grey, green",
+  "hair_colors": "none",
+  "eye_colors": "unknown",
+  "average_lifespan": "unknown",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/56",
+  "language": "Skakoan",
+  "people": [
+    76
+  ],
+  "films": [
+    5,
+    6
+  ],
+  "created": "2014-12-20T17:53:54.515Z",
+  "edited": "2014-12-20T21:36:42.204Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/33",
+  "id": "33"
+}

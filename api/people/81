@@ -1,0 +1,22 @@
+{
+  "name": "Raymus Antilles",
+  "height": "188",
+  "mass": "79",
+  "hair_color": "brown",
+  "skin_color": "light",
+  "eye_color": "brown",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/2",
+  "films": [
+    1,
+    6
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T19:49:35.583Z",
+  "edited": "2014-12-20T21:17:50.493Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/81",
+  "id": "81"
+}

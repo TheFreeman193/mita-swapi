@@ -1,0 +1,24 @@
+{
+  "name": "Watto",
+  "height": "137",
+  "mass": "unknown",
+  "hair_color": "black",
+  "skin_color": "blue, grey",
+  "eye_color": "yellow",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/34",
+  "films": [
+    4,
+    5
+  ],
+  "species": [
+    13
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-19T17:48:54.647Z",
+  "edited": "2014-12-20T21:17:50.395Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/40",
+  "id": "40"
+}

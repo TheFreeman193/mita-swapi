@@ -1,0 +1,26 @@
+{
+  "name": "Dooku",
+  "height": "193",
+  "mass": "80",
+  "hair_color": "white",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "102BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/52",
+  "films": [
+    5,
+    6
+  ],
+  "species": [
+    1
+  ],
+  "vehicles": [
+    55
+  ],
+  "starships": [],
+  "created": "2014-12-20T16:52:14.726Z",
+  "edited": "2014-12-20T21:17:50.462Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/67",
+  "id": "67"
+}

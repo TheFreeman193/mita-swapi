@@ -1,0 +1,27 @@
+{
+  "name": "Plo Koon",
+  "height": "188",
+  "mass": "80",
+  "hair_color": "none",
+  "skin_color": "orange",
+  "eye_color": "black",
+  "birth_year": "22BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/49",
+  "films": [
+    4,
+    5,
+    6
+  ],
+  "species": [
+    26
+  ],
+  "vehicles": [],
+  "starships": [
+    48
+  ],
+  "created": "2014-12-20T10:49:19.859Z",
+  "edited": "2014-12-20T21:17:50.439Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/58",
+  "id": "58"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Palpatine",
+  "height": "170",
+  "mass": "75",
+  "hair_color": "grey",
+  "skin_color": "pale",
+  "eye_color": "yellow",
+  "birth_year": "82BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/8",
+  "films": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-15T12:48:05.971Z",
+  "edited": "2014-12-20T21:17:50.347Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/21",
+  "id": "21"
+}

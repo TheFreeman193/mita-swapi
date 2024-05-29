@@ -1,0 +1,21 @@
+{
+  "name": "Emergency Firespeeder",
+  "model": "Fire suppression speeder",
+  "manufacturer": "unknown",
+  "cost_in_credits": "unknown",
+  "length": "unknown",
+  "max_atmosphering_speed": "unknown",
+  "crew": "2",
+  "passengers": "unknown",
+  "cargo_capacity": "unknown",
+  "consumables": "unknown",
+  "vehicle_class": "fire suppression ship",
+  "pilots": [],
+  "films": [
+    6
+  ],
+  "created": "2014-12-20T19:50:58.559Z",
+  "edited": "2014-12-20T21:30:21.749Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/vehicles/62",
+  "id": "62"
+}

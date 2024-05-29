@@ -1,0 +1,25 @@
+{
+  "name": "Boba Fett",
+  "height": "183",
+  "mass": "78.2",
+  "hair_color": "black",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "31.5BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/10",
+  "films": [
+    2,
+    3,
+    5
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [
+    21
+  ],
+  "created": "2014-12-15T12:49:32.457Z",
+  "edited": "2014-12-20T21:17:50.349Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/22",
+  "id": "22"
+}

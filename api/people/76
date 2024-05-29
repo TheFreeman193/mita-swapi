@@ -1,0 +1,23 @@
+{
+  "name": "Wat Tambor",
+  "height": "193",
+  "mass": "48",
+  "hair_color": "none",
+  "skin_color": "green, grey",
+  "eye_color": "unknown",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/56",
+  "films": [
+    5
+  ],
+  "species": [
+    33
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T17:53:52.607Z",
+  "edited": "2014-12-20T21:17:50.481Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/76",
+  "id": "76"
+}

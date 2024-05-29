@@ -1,0 +1,23 @@
+{
+  "name": "Jek Tono Porkins",
+  "height": "180",
+  "mass": "110",
+  "hair_color": "brown",
+  "skin_color": "fair",
+  "eye_color": "blue",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/26",
+  "films": [
+    1
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [
+    12
+  ],
+  "created": "2014-12-12T11:16:56.569Z",
+  "edited": "2014-12-20T21:17:50.343Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/19",
+  "id": "19"
+}

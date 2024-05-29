@@ -1,0 +1,23 @@
+{
+  "name": "Taun We",
+  "height": "213",
+  "mass": "unknown",
+  "hair_color": "none",
+  "skin_color": "grey",
+  "eye_color": "black",
+  "birth_year": "unknown",
+  "gender": "female",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/10",
+  "films": [
+    5
+  ],
+  "species": [
+    32
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T17:31:21.195Z",
+  "edited": "2014-12-20T21:17:50.474Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/73",
+  "id": "73"
+}

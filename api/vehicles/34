@@ -1,0 +1,21 @@
+{
+  "name": "Multi-Troop Transport",
+  "model": "Multi-Troop Transport",
+  "manufacturer": "Baktoid Armor Workshop",
+  "cost_in_credits": "138000",
+  "length": "31",
+  "max_atmosphering_speed": "35",
+  "crew": "4",
+  "passengers": "112",
+  "cargo_capacity": "12000",
+  "consumables": "unknown",
+  "vehicle_class": "repulsorcraft",
+  "pilots": [],
+  "films": [
+    4
+  ],
+  "created": "2014-12-19T17:12:04.4Z",
+  "edited": "2014-12-20T21:30:21.7Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/vehicles/34",
+  "id": "34"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Han Solo",
+  "height": "180",
+  "mass": "80",
+  "hair_color": "brown",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "29BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/22",
+  "films": [
+    1,
+    2,
+    3
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [
+    10,
+    22
+  ],
+  "created": "2014-12-10T16:49:14.582Z",
+  "edited": "2014-12-20T21:17:50.334Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/14",
+  "id": "14"
+}

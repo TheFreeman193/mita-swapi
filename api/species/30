@@ -1,0 +1,23 @@
+{
+  "name": "Clawdite",
+  "classification": "reptilian",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "green, yellow",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "70",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/54",
+  "language": "Clawdite",
+  "people": [
+    70
+  ],
+  "films": [
+    5,
+    6
+  ],
+  "created": "2014-12-20T16:57:46.171Z",
+  "edited": "2014-12-20T21:36:42.199Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/30",
+  "id": "30"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Arvel Crynyd",
+  "height": "unknown",
+  "mass": "unknown",
+  "hair_color": "brown",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/28",
+  "films": [
+    3
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [
+    28
+  ],
+  "created": "2014-12-18T11:16:33.02Z",
+  "edited": "2014-12-20T21:17:50.367Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/29",
+  "id": "29"
+}

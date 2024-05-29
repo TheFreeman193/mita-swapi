@@ -1,0 +1,23 @@
+{
+  "name": "Bossk",
+  "height": "190",
+  "mass": "113",
+  "hair_color": "none",
+  "skin_color": "green",
+  "eye_color": "red",
+  "birth_year": "53BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/29",
+  "films": [
+    2
+  ],
+  "species": [
+    7
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-15T12:53:49.297Z",
+  "edited": "2014-12-20T21:17:50.355Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/24",
+  "id": "24"
+}

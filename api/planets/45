@@ -1,0 +1,19 @@
+{
+  "name": "Iridonia",
+  "rotation_period": "29",
+  "orbital_period": "413",
+  "diameter": "unknown",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "rocky canyons, acid pools",
+  "surface_water": "unknown",
+  "population": "unknown",
+  "residents": [
+    54
+  ],
+  "films": [],
+  "created": "2014-12-20T10:26:05.788Z",
+  "edited": "2014-12-20T20:58:18.497Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/planets/45",
+  "id": "45"
+}

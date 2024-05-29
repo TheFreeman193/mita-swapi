@@ -1,0 +1,23 @@
+{
+  "name": "Tion Medon",
+  "height": "206",
+  "mass": "80",
+  "hair_color": "none",
+  "skin_color": "grey",
+  "eye_color": "black",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/12",
+  "films": [
+    6
+  ],
+  "species": [
+    37
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T20:35:04.26Z",
+  "edited": "2014-12-20T21:17:50.498Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/83",
+  "id": "83"
+}

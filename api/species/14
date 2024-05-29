@@ -1,0 +1,22 @@
+{
+  "name": "Dug",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "100",
+  "skin_colors": "brown, purple, grey, red",
+  "hair_colors": "none",
+  "eye_colors": "yellow, blue",
+  "average_lifespan": "unknown",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/35",
+  "language": "Dugese",
+  "people": [
+    41
+  ],
+  "films": [
+    4
+  ],
+  "created": "2014-12-19T17:53:11.214Z",
+  "edited": "2014-12-20T21:36:42.167Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/14",
+  "id": "14"
+}

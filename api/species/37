@@ -1,0 +1,22 @@
+{
+  "name": "Pau'an",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "grey",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "700",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/12",
+  "language": "Utapese",
+  "people": [
+    83
+  ],
+  "films": [
+    6
+  ],
+  "created": "2014-12-20T20:35:06.777Z",
+  "edited": "2014-12-20T21:36:42.212Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/species/37",
+  "id": "37"
+}

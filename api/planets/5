@@ -1,0 +1,21 @@
+{
+  "name": "Dagobah",
+  "rotation_period": "23",
+  "orbital_period": "341",
+  "diameter": "8900",
+  "climate": "murky",
+  "gravity": "N/A",
+  "terrain": "swamp, jungles",
+  "surface_water": "8",
+  "population": "unknown",
+  "residents": [],
+  "films": [
+    2,
+    3,
+    6
+  ],
+  "created": "2014-12-10T11:42:22.59Z",
+  "edited": "2014-12-20T20:58:18.425Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/planets/5",
+  "id": "5"
+}

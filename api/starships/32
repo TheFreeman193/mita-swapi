@@ -1,0 +1,25 @@
+{
+  "name": "Droid control ship",
+  "model": "Lucrehulk-class Droid Control Ship",
+  "manufacturer": "Hoersch-Kessel Drive, Inc.",
+  "cost_in_credits": "unknown",
+  "length": "3170",
+  "max_atmosphering_speed": "n/a",
+  "crew": "175",
+  "passengers": "139000",
+  "cargo_capacity": "4000000000",
+  "consumables": "500 days",
+  "hyperdrive_rating": "2.0",
+  "MGLT": "unknown",
+  "starship_class": "Droid control ship",
+  "pilots": [],
+  "films": [
+    4,
+    5,
+    6
+  ],
+  "created": "2014-12-19T17:04:06.323Z",
+  "edited": "2014-12-20T21:23:49.915Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/starships/32",
+  "id": "32"
+}

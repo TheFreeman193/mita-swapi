@@ -1,0 +1,25 @@
+{
+  "name": "Y-wing",
+  "model": "BTL Y-wing",
+  "manufacturer": "Koensayr Manufacturing",
+  "cost_in_credits": "134999",
+  "length": "14",
+  "max_atmosphering_speed": "1000km",
+  "crew": "2",
+  "passengers": "0",
+  "cargo_capacity": "110",
+  "consumables": "1 week",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "80",
+  "starship_class": "assault starfighter",
+  "pilots": [],
+  "films": [
+    1,
+    2,
+    3
+  ],
+  "created": "2014-12-12T11:00:39.817Z",
+  "edited": "2014-12-20T21:23:49.883Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/starships/11",
+  "id": "11"
+}

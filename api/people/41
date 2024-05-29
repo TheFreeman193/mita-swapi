@@ -1,0 +1,23 @@
+{
+  "name": "Sebulba",
+  "height": "112",
+  "mass": "40",
+  "hair_color": "none",
+  "skin_color": "grey, red",
+  "eye_color": "orange",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/35",
+  "films": [
+    4
+  ],
+  "species": [
+    14
+  ],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-19T17:53:02.586Z",
+  "edited": "2014-12-20T21:17:50.397Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/41",
+  "id": "41"
+}

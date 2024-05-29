@@ -1,0 +1,22 @@
+{
+  "name": "Sly Moore",
+  "height": "178",
+  "mass": "48",
+  "hair_color": "none",
+  "skin_color": "pale",
+  "eye_color": "white",
+  "birth_year": "unknown",
+  "gender": "female",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/60",
+  "films": [
+    5,
+    6
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T20:18:37.619Z",
+  "edited": "2014-12-20T21:17:50.496Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/82",
+  "id": "82"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Anakin Skywalker",
+  "height": "188",
+  "mass": "84",
+  "hair_color": "blond",
+  "skin_color": "fair",
+  "eye_color": "blue",
+  "birth_year": "41.9BBY",
+  "gender": "male",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/1",
+  "films": [
+    4,
+    5,
+    6
+  ],
+  "species": [],
+  "vehicles": [
+    44,
+    46
+  ],
+  "starships": [
+    39,
+    59,
+    65
+  ],
+  "created": "2014-12-10T16:20:44.31Z",
+  "edited": "2014-12-20T21:17:50.327Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/11",
+  "id": "11"
+}

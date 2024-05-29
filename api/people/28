@@ -1,0 +1,21 @@
+{
+  "name": "Mon Mothma",
+  "height": "150",
+  "mass": "unknown",
+  "hair_color": "auburn",
+  "skin_color": "fair",
+  "eye_color": "blue",
+  "birth_year": "48BBY",
+  "gender": "female",
+  "homeworld": "https://thefreeman193.github.io/mita-swapi/api/planets/32",
+  "films": [
+    3
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-18T11:12:38.895Z",
+  "edited": "2014-12-20T21:17:50.364Z",
+  "url": "https://thefreeman193.github.io/mita-swapi/api/people/28",
+  "id": "28"
+}
